@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient(rgb(241, 241, 241), rgb(190, 203, 238),rgb(136, 191, 228), rgb(105, 171, 233) );
+    background-repeat: no-repeat;
+    width: 100vh;
+}
+.teste1{
+    display: flex;
+    justify-content: center;
+}
+.espacamento{
+    margin-left: 100px;
+}
+.teste2{
+    display: flex;
+    justify-content: center;
+}
+
+.espacamento2{
+    margin-left: 100px;
+}
