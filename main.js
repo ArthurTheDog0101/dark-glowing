@@ -1,5 +1,5 @@
 function mudarCorTexto(){
-    alert("chevette vrum vrum")
+    alert("calhambeque bi bi")
     console.log (document.querySelector("#p1"))
 
 }       
