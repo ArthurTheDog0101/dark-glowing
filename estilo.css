@@ -9,9 +9,7 @@ body{
     display: flex;
     justify-content: center;
 }
-.espacamento{
-    margin-left: 100px;
-}
+
 .teste2{
     display: flex;
     justify-content: center;
